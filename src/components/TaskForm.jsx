@@ -19,7 +19,8 @@ const StyledInput = styled.input`
 `
 
 const SubmitButton = styled.button`
-    background-color: lightgreen;
+    background-color: blue;
+    color: white;
     border: none;
     padding: 9px 20px;
     font-size: 18px;
